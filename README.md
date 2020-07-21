@@ -1,5 +1,7 @@
 # vue-weather
 
+[Link to the site](https://fervent-curie-f4fbc1.netlify.app/)
+
 ## Project setup
 ```
 yarn install
