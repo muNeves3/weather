@@ -1,6 +1,6 @@
 # vue-weather
 
-[!Test(https://media.giphy.com/media/ZeX6U5oewZrvHvtdrR/giphy.gif)](https://media.giphy.com/media/ZeX6U5oewZrvHvtdrR/giphy.gif)
+[!Test](https://media.giphy.com/media/ZeX6U5oewZrvHvtdrR/giphy.gif)
 
 
 
